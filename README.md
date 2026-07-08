@@ -195,7 +195,7 @@ Solved a real production incident: Vercel's ephemeral filesystem was silently dr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Keith10Rumao/Keith10Rumao/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/Keith10Rumao/KeithRumao/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 <sub>Powered by the <a href="https://github.com/Platane/snk">snk GitHub Action</a> — workflow file provided alongside this README (<code>snake.yml</code>).</sub>
 
